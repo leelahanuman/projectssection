@@ -1,0 +1,54 @@
+.portfolio-section {
+    background-color: #323f4b;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-style: italic;
+    font-weight: bold;
+    color: yellow;
+}
+
+.sub-heading {
+    font-family: "Roboto";
+    font-style: italic;
+    color: white;
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.section-image {
+
+    width: 100%;
+}
+
+.Caption-heading {
+    font-family: "Roboto";
+    font-size: 45px;
+    color: white;
+}
+
+.caption {
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #9aa5b1;
+}
+
+.section-card-container {
+    background-color: #3e4c59;
+}
+
+.Caption-description {
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #9aa5b1;
+}
+
+.menu-item-link {
+    color: yellow;
+    font-weight: bold;
+    margin-bottom;
+    5px;
+}
+
+}
